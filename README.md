@@ -97,3 +97,9 @@ Several enhancements can be made to improve the model's performance and robustne
 * Hyperparameter Tuning: Experimenting with different hyperparameters, such as the learning rate, batch size, and number of neurons in hidden layers, could further optimize the model.
 * Transfer Learning: Leveraging pre-trained models like ResNet or EfficientNet could enhance model accuracy by using learned representations from other large datasets.
 * Class Imbalance: Although the dataset is balanced, experimenting with class weights or other balancing techniques may improve performance on more difficult classes.
+
+
+
+  ## Kaggle Notebook
+  Below is the Kaggle Notebook link where I created the project.
+  https://www.kaggle.com/code/vildannn/ann-with-fish-dataset-project
