@@ -45,7 +45,7 @@ Before feeding the images into the model, several preprocessing steps were appli
 
 Image Resizing: All images were resized to 224x224 pixels to standardize input dimensions.
 Image Augmentation: To increase the dataset’s variability and improve the model's robustness, we applied techniques like rotation, flipping, and brightness adjustment. These augmentations help the model generalize better to unseen images.
-Normalization: Pixel values were normalized to a range of [-1, 1], which helps with model convergence and improves performance. This was achieved using the MobileNetV2 preprocessing function.
+Normalization: Pixel values were normalized to a range of [-1, 1], which helps with model convergence and improves performance.
 After preprocessing, the dataset was split into training (75%), validation (10%), and test (15%) sets.
 
 3. ANN Model Architecture
